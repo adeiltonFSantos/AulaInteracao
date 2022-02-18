@@ -1,4 +1,4 @@
 const adeilton ;
-const Ribeirão Preto - SP ;
+const cidade = "Ribeirão Preto - SP" ;
 
-
+//testando git - johnny
